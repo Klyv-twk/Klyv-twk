@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Klyvert Jose
 - 👀 I’m interested in beeing a good progamer
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me? You can send me an e-mail ou contact me on instagram, i also have Telegram but i don't use it.
+- 🌱 I’m currently learning PHP and Laravel
+- 📫 How to reach me? You can send me an e-mail, i also have Telegram but i don't use it.
 - I am learn now to be an front-end,for a initial phase.
 
 <!---
