@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Klyvert Jose
-- 👀 I’m interested in beeing a good progamer
-- 🌱 I’m currently learning PHP and Laravel
+- 👀 I’m interested in beeing a good developer
+- 🌱 I’m currently learning Dart and Flutter
 - 📫 How to reach me? You can send me an e-mail, i also have Telegram but i don't use it.
 - I am learn now to be an front-end,for a initial phase.
 
